@@ -1,0 +1,7 @@
+# Python 3.12+ dependencies for validation, console UI, metrics, and charts.
+pydantic>=2.7
+rich>=13.7
+textual>=0.58
+psutil>=5.9
+matplotlib>=3.8
+pytest>=8.0
